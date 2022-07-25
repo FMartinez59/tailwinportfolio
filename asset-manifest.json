@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/FMartinez59/tailwinportfolio/static/css/main.8e6308f1.css",
+    "main.js": "/FMartinez59/tailwinportfolio/static/js/main.f01ccf0e.js",
+    "static/media/homepage.png": "/FMartinez59/tailwinportfolio/static/media/homepage.31add230004d9aca2091.png",
+    "static/media/mytraffic.png": "/FMartinez59/tailwinportfolio/static/media/mytraffic.9a50c933c1134cf7632f.png",
+    "static/media/portfolio-example.png": "/FMartinez59/tailwinportfolio/static/media/portfolio-example.274373edf4b54cd24e7d.png",
+    "static/media/weatherdashboard.png": "/FMartinez59/tailwinportfolio/static/media/weatherdashboard.77f990c2d93be4ccb1de.png",
+    "static/media/TheOfficeQuiz.png": "/FMartinez59/tailwinportfolio/static/media/TheOfficeQuiz.9694b929200878bbf79c.png",
+    "static/media/react.png": "/FMartinez59/tailwinportfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/passwordgenerator.png": "/FMartinez59/tailwinportfolio/static/media/passwordgenerator.b6f3b4bbaffacb7dfac2.png",
+    "static/media/node.png": "/FMartinez59/tailwinportfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/FMartinez59/tailwinportfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/html.png": "/FMartinez59/tailwinportfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/FMJ.png": "/FMartinez59/tailwinportfolio/static/media/FMJ.64651a5d1953661aa457.png",
+    "static/media/tailwind.png": "/FMartinez59/tailwinportfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/FMartinez59/tailwinportfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/mysql.jpg": "/FMartinez59/tailwinportfolio/static/media/mysql.17c4c3f87b451a69c869.jpg",
+    "static/media/javascript.png": "/FMartinez59/tailwinportfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/FMartinez59/tailwinportfolio/index.html",
+    "main.8e6308f1.css.map": "/FMartinez59/tailwinportfolio/static/css/main.8e6308f1.css.map",
+    "main.f01ccf0e.js.map": "/FMartinez59/tailwinportfolio/static/js/main.f01ccf0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e6308f1.css",
+    "static/js/main.f01ccf0e.js"
+  ]
+}
